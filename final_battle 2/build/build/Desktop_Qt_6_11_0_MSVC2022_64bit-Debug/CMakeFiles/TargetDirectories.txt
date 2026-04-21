@@ -1,0 +1,8 @@
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/final_battle.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/final_battle_autogen_timestamp_deps.dir
+D:/QtPreject/final_battle/build/Desktop_Qt_6_11_0_MSVC2022_64bit-Debug/CMakeFiles/final_battle_autogen.dir
