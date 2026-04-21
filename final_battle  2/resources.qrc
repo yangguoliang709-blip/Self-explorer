@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/player1.png</file>
+        <file>assets/images/player2.png</file>
+        <file>assets/images/wall.png</file>
+        <file>assets/images/tree.png</file>
+        <file>assets/images/empty1.png</file>
+        <file>assets/images/empty2.png</file>
+        <file>assets/images/empty3.png</file>
+        <file>assets/images/empty4.png</file>
+        <file>assets/images/empty5.png</file>
+        <file>assets/images/river.png</file>
+        <file>assets/images/stone.png</file>
+        <file>assets/images/heart.png</file>
+        <file>assets/audio/attack1.mp3</file>
+        <file>assets/audio/attack2.mp3</file>
+        <file>assets/audio/collect1.mp3</file>
+        <file>assets/audio/collect2.mp3</file>
+        <file>assets/audio/craft.mp3</file>
+        <file>assets/audio/death.mp3</file>
+        <file>assets/audio/heal.mp3</file>
+        <file>assets/audio/bgm.mp3</file>
+    </qresource>
+</RCC>
